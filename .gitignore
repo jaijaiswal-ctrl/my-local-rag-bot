@@ -1,0 +1,5 @@
+venv/
+my_ai_memory/
+*.pdf
+__pycache__/
+.DS_Store

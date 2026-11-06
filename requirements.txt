@@ -1,0 +1,12 @@
+streamlit
+ollama
+chromadb
+pymupdf
+pypdf
+
+#method 2
+Open your terminal in VS Code.
+Make sure you see (venv) at the start.
+Type this command and press Enter:
+pip freeze > requirements.txt
+(You will see a new file appear. It lists streamlit, ollama, chromadb, etc.)
