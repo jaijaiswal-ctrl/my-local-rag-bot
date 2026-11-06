@@ -1,4 +1,4 @@
-# 🤖 ChatWithMyPDF: A Private, Local AI Knowledge Base
+#  ChatWithMyPDF: A Private, Local AI Knowledge Base
 
 ### "Stop guessing. Start knowing."
 
@@ -10,7 +10,7 @@ The best part? **It's 100% local.** No API keys, no monthly subscriptions, and y
 
 ---
 
-## 🧠 How it Works (In Plain English)
+##  How it Works (In Plain English)
 
 I've designed the app to follow a simple four-step process:
 1. **The Eyes (Extraction):** It uses `PyMuPDF` to rip the text out of your PDF with high precision.
@@ -20,7 +20,7 @@ I've designed the app to follow a simple four-step process:
 
 ---
 
-## 🛠️ The Tech Stack
+##  The Tech Stack
 
 - **LLM:** Llama 3.1 (via Ollama)
 - **Embeddings:** nomic-embed-text (via Ollama)
@@ -31,7 +31,7 @@ I've designed the app to follow a simple four-step process:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Since this app runs locally, you'll need to set up the "AI Engine" first.
 
